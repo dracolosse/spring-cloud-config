@@ -57,7 +57,7 @@
     <properties>
         <spring-cloud-dependencies.version>Hoxton.RELEASE</spring-cloud-dependencies.version>
         <spring-boot.version>2.2.2.RELEASE</spring-boot.version>
-        <spring-cloud-config-server.version>2.2.1.RELEASE</spring-cloud-config-server.version>
+        <spring-cloud-config-server.version>2.2.4.RELEASE</spring-cloud-config-server.version>
     </properties>
 
 </project>
